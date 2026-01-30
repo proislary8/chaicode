@@ -3,7 +3,9 @@
 
 A clean, structured, and semantic HTML-only resume template. This project demonstrates how to build a readable and organized layout using pure HTML tags without any CSS.
 
-![Resume Screenshot](images/screenshot.png)
+
+
+![Resume Screenshot](images/resume-screenshot.png)
 
 ## Features
 - **Semantic HTML**: Uses proper tags like `<header>`, `<section>`, `<table>`, `<ul>`, etc.
